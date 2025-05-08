@@ -117,3 +117,6 @@ MIT License - See [LICENSE](LICENSE) for details.
 ## Sample Images
 
 **Server.py deployment and interaction from client:**
+![img1](https://github.com/user-attachments/assets/5a233cf4-3b04-4261-b2a9-8fbe6908571e)
+**Client.py operations:**
+![img2](https://github.com/user-attachments/assets/a0a8b948-5d3a-4e88-a804-65a195620e1f)
