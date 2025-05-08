@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey)
 
-Covert HTTP smuggling tool for stealthy data exfiltration and command execution. The agent evades detection with chunked encoding and traffic spoofing, while the Flask server securely collects payloads.
+Covert HTTP smuggling tool for stealthy data exfiltration and command execution, specifically optimized for reliable Remote Code Execution (RCE) operations. The agent evades detection through chunked encoding and traffic spoofing techniques while maintaining robust command-and-control connectivity. Designed for red team engagements, it supports both immediate task execution and persistent monitoring modes. The Flask server securely collects and isolates payloads with proper logging for operational security.
 
 ## Features
 
