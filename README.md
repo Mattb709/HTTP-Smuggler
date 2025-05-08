@@ -112,3 +112,7 @@ This tool is provided for educational and authorized testing purposes only. The 
 ## License
 
 MIT License - See [LICENSE](LICENSE) for details.
+
+## Sample Images
+
+**Server.py deployment and interaction from client:**
